@@ -4,3 +4,4 @@ GItのdiff練習用
 3回目変更
 rebase^practiceで変更
 rebasecomtenu
+変更
